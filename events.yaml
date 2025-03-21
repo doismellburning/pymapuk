@@ -1,0 +1,7 @@
+- 
+  name: "PyCon UK 2025"
+  location: "Contact, Manchester"
+  description: "The UK's largest Python conference with talks, workshops, and sprints."
+  latitude: 53.42
+  longitude: -2.25
+  url: "https://2025.pyconuk.org/"
