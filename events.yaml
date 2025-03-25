@@ -5,3 +5,10 @@
   latitude: 53.4630734
   longitude: -2.2320056
   url: "https://2025.pyconuk.org/"
+-
+  name: "Python North West"
+  location: "Manchester"
+  description: "Python North West is a group based in Manchester"
+  latitude: 53.479167
+  longitude: -2.244167
+  url: "https://pynw.org/"
