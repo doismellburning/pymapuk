@@ -5,6 +5,7 @@
   latitude: 53.4630734
   longitude: -2.2320056
   url: "https://2025.pyconuk.org/"
+  marker_type: "pyconuk"
 -
   name: "Python North West"
   location: "Manchester"
@@ -12,6 +13,7 @@
   latitude: 53.479167
   longitude: -2.244167
   url: "https://pynw.org/"
+  marker_type: "python"
 -
   name: "London Python"
   location: "London"
@@ -19,6 +21,7 @@
   latitude: 51.51328
   longitude: -0.08873
   url: "https://www.meetup.com/LondonPython/"
+  marker_type: "python"
 -
   name: "Python Glasgow"
   location: "Glasgow"
@@ -26,6 +29,7 @@
   latitude: 55.8193525579704
   longitude: -4.16925675173725
   url: "https://www.meetup.com/python-glasgow/"
+  marker_type: "python"
 -
   name: "Python Edinburgh"
   location: "Edinburgh"
@@ -33,6 +37,7 @@
   latitude: 55.95206000
   longitude: -3.19648000
   url: "https://www.meetup.com/Python-Edinburgh/"
+  marker_type: "python"
 -
   name: "Brighton Py"
   location: "Brighton"
@@ -40,6 +45,7 @@
   latitude: 50.833717
   longitude: -0.139245
   url: "https://www.meetup.com/brightonpy/"
+  marker_type: "python"
 -
   name: "PyBelfast"
   location: "Belfast"
@@ -47,3 +53,4 @@
   latitude: 54.607868
   longitude: -5.926437
   url: "https://www.meetup.com/PyBelfast/"
+  marker_type: "python"
