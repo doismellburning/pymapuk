@@ -26,3 +26,10 @@
   latitude: 55.8193525579704
   longitude: -4.16925675173725
   url: "https://www.meetup.com/python-glasgow/"
+-
+  name: "Python Edinburgh"
+  location: "Edinburgh"
+  description: "A monthly meetup of python programmers and people interested in programming. All levels of experience are welcome - from dipping your feet in the waters of programming, to pros."
+  latitude: 55.95206000
+  longitude: -3.19648000
+  url: "https://www.meetup.com/Python-Edinburgh/"
