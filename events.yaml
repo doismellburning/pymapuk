@@ -12,3 +12,10 @@
   latitude: 53.479167
   longitude: -2.244167
   url: "https://pynw.org/"
+-
+  name: "London Python"
+  location: "London"
+  description: "London Python is a meetup community for anyone interested in Python - at all levels, from complete beginners to seasoned professionals."
+  latitude: 51.51328
+  longitude: -0.08873
+  url: "https://www.meetup.com/LondonPython/"
