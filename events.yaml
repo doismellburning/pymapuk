@@ -19,3 +19,10 @@
   latitude: 51.51328
   longitude: -0.08873
   url: "https://www.meetup.com/LondonPython/"
+-
+  name: "Python Glasgow"
+  location: "Glasgow"
+  description: "Python Glasgow meets every 1st Wednesday of the month to share and gain different perspectives and insights, sometimes bringing in speakers from across the city, and hosting events to further connection and deepen understanding."
+  latitude: 55.8193525579704
+  longitude: -4.16925675173725
+  url: "https://www.meetup.com/python-glasgow/"
