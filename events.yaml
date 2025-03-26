@@ -40,3 +40,10 @@
   latitude: 50.833717
   longitude: -0.139245
   url: "https://www.meetup.com/brightonpy/"
+-
+  name: "PyBelfast"
+  location: "Belfast"
+  description: "PyBelfast is a group for anyone interested in learning more about the Python programming language. We aim to hold a meetup every other month on a variety of topics, with a focus on Python related technologies. It is suitable for all levels and new people are always welcome."
+  latitude: 54.607868
+  longitude: -5.926437
+  url: "https://www.meetup.com/PyBelfast/"
