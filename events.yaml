@@ -12,3 +12,38 @@
   latitude: 53.479167
   longitude: -2.244167
   url: "https://pynw.org/"
+-
+  name: "London Python"
+  location: "London"
+  description: "London Python is a meetup community for anyone interested in Python - at all levels, from complete beginners to seasoned professionals."
+  latitude: 51.51328
+  longitude: -0.08873
+  url: "https://www.meetup.com/LondonPython/"
+-
+  name: "Python Glasgow"
+  location: "Glasgow"
+  description: "Python Glasgow meets every 1st Wednesday of the month to share and gain different perspectives and insights, sometimes bringing in speakers from across the city, and hosting events to further connection and deepen understanding."
+  latitude: 55.8193525579704
+  longitude: -4.16925675173725
+  url: "https://www.meetup.com/python-glasgow/"
+-
+  name: "Python Edinburgh"
+  location: "Edinburgh"
+  description: "A monthly meetup of python programmers and people interested in programming. All levels of experience are welcome - from dipping your feet in the waters of programming, to pros."
+  latitude: 55.95206000
+  longitude: -3.19648000
+  url: "https://www.meetup.com/Python-Edinburgh/"
+-
+  name: "Brighton Py"
+  location: "Brighton"
+  description: "We run talks and workshops in a lovely social environment & would love for you to join us! These events are in person and we provide pizza and refreshments along with good company. If you are unable to be there, we have a livestream for every event."
+  latitude: 50.833717
+  longitude: -0.139245
+  url: "https://www.meetup.com/brightonpy/"
+-
+  name: "PyBelfast"
+  location: "Belfast"
+  description: "PyBelfast is a group for anyone interested in learning more about the Python programming language. We aim to hold a meetup every other month on a variety of topics, with a focus on Python related technologies. It is suitable for all levels and new people are always welcome."
+  latitude: 54.607868
+  longitude: -5.926437
+  url: "https://www.meetup.com/PyBelfast/"
